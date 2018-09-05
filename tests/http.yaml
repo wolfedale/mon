@@ -1,0 +1,20 @@
+{
+  "http" : [
+    {
+      "hostname" : "wp.pl",
+      "enable" : true,
+      "timeout" : 5,
+      "port" : 80,
+      "ssl" : false,
+      "status" : 200
+    },
+    {
+      "hostname" : "onet.pl",
+      "enable" : true,
+      "timeout" : 5,
+      "port" : 80,
+      "ssl" : false,
+      "status" : 200
+    }
+  ]
+}
