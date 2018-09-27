@@ -1,0 +1,5 @@
+config:
+- name: check_icmp
+  conf: "./checks/icmp.yaml"
+- name: check_http
+  conf: "./checks/http.yaml"
